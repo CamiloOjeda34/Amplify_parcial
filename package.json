@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
-    "start-server-and-test": "^1.11.6"
+    "start-server-and-test": "^1.11.6",
+    "webpack": "^5.11.0"
   }
 }
